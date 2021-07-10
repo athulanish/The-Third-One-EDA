@@ -1,0 +1,1 @@
+This document is meant to give the reader a basic idea of what EDA stands for
